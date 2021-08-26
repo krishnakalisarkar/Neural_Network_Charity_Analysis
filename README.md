@@ -36,7 +36,7 @@ Four attempts were performed in order to increase the performance of the neural 
 
 ## Attempt 1:
 
-![Attempt1]()
+![Attempt1](images/attempt1.png)
 
 #### Number of neurons, layers, and activation functions selected for the neural network model:
 * The entire length of X trained was used as the input variable, as these are the features of the model.
