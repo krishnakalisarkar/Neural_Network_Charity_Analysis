@@ -30,7 +30,7 @@ The Alphabet Charity Dataset is loaded in the Jupyter notebook and the features 
 * Since, all the rows in the dataset had the same values for status and special considerations, these two features were dropped from the dataset.
 
 ### Compiling, Training, and Evaluating the Model
-![Initial_accuracy]()
+![Initial_accuracy](images/initial.png)
 
 Four attempts were performed in order to increase the performance of the neural network model from 70% 
 
